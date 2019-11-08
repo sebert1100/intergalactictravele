@@ -54,10 +54,10 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="116.51785714285714"/>
         </scene>
-        <!--View Controller-->
+        <!--Second View Controller-->
         <scene sceneID="1GP-iV-Kv2">
             <objects>
-                <viewController id="AOS-6C-6ZW" sceneMemberID="viewController">
+                <viewController id="AOS-6C-6ZW" customClass="secondViewController" customModule="intergalactictravele" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="bQe-kB-RYA">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -73,6 +73,9 @@
                     <navigationItem key="navigationItem" id="y7d-GD-bYl">
                         <barButtonItem key="backBarButtonItem" title="Back" id="pPk-iB-ewv"/>
                     </navigationItem>
+                    <connections>
+                        <outlet property="starImageView" destination="Ioc-oA-ObJ" id="XzU-ku-noZ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="YpP-pq-vB2" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E49157672375D96700C9409A /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49157662375D96700C9409A /* secondViewController.swift */; };
 		E4B079B0237339B800BBF066 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B079AF237339B800BBF066 /* AppDelegate.swift */; };
 		E4B079B2237339B800BBF066 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B079B1237339B800BBF066 /* SceneDelegate.swift */; };
 		E4B079B4237339B800BBF066 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B079B3237339B800BBF066 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E49157662375D96700C9409A /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		E4B079AC237339B800BBF066 /* intergalactictravele.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = intergalactictravele.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B079AF237339B800BBF066 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4B079B1237339B800BBF066 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				E4B079B1237339B800BBF066 /* SceneDelegate.swift */,
 				E4B079B3237339B800BBF066 /* ViewController.swift */,
 				E4B079B5237339B800BBF066 /* Main.storyboard */,
+				E49157662375D96700C9409A /* secondViewController.swift */,
 				E4B079B8237339B900BBF066 /* Assets.xcassets */,
 				E4B079BA237339B900BBF066 /* LaunchScreen.storyboard */,
 				E4B079BD237339B900BBF066 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E49157672375D96700C9409A /* secondViewController.swift in Sources */,
 				E4B079B4237339B800BBF066 /* ViewController.swift in Sources */,
 				E4B079B0237339B800BBF066 /* AppDelegate.swift in Sources */,
 				E4B079B2237339B800BBF066 /* SceneDelegate.swift in Sources */,
